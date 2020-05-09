@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">rahmaYudistiraImplicitIntent</string>
+    <string name="open_maps">Open Maps</string>
+    <string name="open_call">Open Call</string>
+    <string name="open_web">Open Web</string>
+    <string name="rahma_yudistira">Rahma yudistira</string>
+</resources>
